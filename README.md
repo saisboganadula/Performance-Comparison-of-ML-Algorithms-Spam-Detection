@@ -1,7 +1,7 @@
 # Performance-Comparison-of-ML-Algorithms-Spam-Detection
 
 README
-This README document provides detailed instructions for running the machine learning experiment coded in ML_assgn_2_final.ipynb, aimed at comparing classifier performances on the Spambase dataset.
+This document provides detailed instructions for running the machine learning experiment coded in ML_assgn_2_final.ipynb, aimed at comparing classifier performances on the Spambase dataset.
 
 Developed BY
 Sai Sukheshwar Boganadula
